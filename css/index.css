@@ -1,0 +1,96 @@
+body{
+  margin: 0;
+  background-color: #66BFBF;
+  text-align: center;
+  color: white;
+  font-family: 'Merriweather Sans', sans-serif;
+}
+span{
+  color: #711A75;
+}
+hr{
+  border-style: dotted;
+  border-bottom-style: none;
+  color: white;
+  border-width: 9px;
+  width: 7%;
+  margin: 100px auto 100px;
+}
+.top{
+  padding-top: 130px;
+  position: relative;
+}
+.heading-1{
+  margin: 0;
+  font-family: 'Send Flowers', cursive;
+  font-size: 4.375rem;
+}
+.heading-2{
+  font-size: 1.875rem;
+  margin-top: 20px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.top-cloud{
+  position: absolute;
+  top: 80px;
+  right: 280px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  top: 280px;
+}
+.mountain{
+  padding-top: 35px;
+}
+.profile{
+  margin: 160px auto 150px;
+  text-align: left;
+  width: 70%;
+  font-size: 19px;
+}
+.profile-img{
+  float: right;
+}
+.email{
+  color: white;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 150px;
+  text-align: left;
+  line-height: 2;
+}
+.cp-image{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.webdev-image{
+  float: right;
+  width: 25%;
+  margin-left: 30px;
+}
+.bottom{
+  background-color: #11999E;
+}
+.intouch{
+  padding-top: 25px;
+  padding-bottom: 40px;
+  margin: 0;
+}
+.footer-link{
+  margin: 20px;
+  text-decoration: none;
+  color: #66BFBF;
+  font-size: 18px;
+}
+.footer-link:hover{
+  color: white;
+}
+.copyright{
+  padding-top: 40px;
+  padding-bottom: 20px;
+  margin: 0;
+  font-size: 12px;
+}
